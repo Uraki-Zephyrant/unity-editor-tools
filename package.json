@@ -1,0 +1,19 @@
+{
+  "name": "com.zephyrant.editor-tools",
+  "displayName": "Zephyrant Editor Tools",
+  "version": "0.1.0",
+  "unity": "2022.3",
+  "description": "Unity editor extensions for VRChat avatar workflows.",
+  "author": {
+    "name": "Uraki-Zephyrant",
+    "url": "https://github.com/Uraki-Zephyrant"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Uraki-Zephyrant/unity-editor-tools.git"
+  },
+  "vpmDependencies": {
+    "com.vrchat.avatars": ">=3.7.0"
+  }
+}
